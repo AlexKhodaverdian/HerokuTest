@@ -1,0 +1,18 @@
+
+
+Started GET "/" for ::1 at 2014-12-23 19:53:35 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0.rc3/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 63ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for ::1 at 2014-12-23 19:53:56 -0800
+Processing by Rails::InfoController#properties as HTML
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0.rc3/lib/rails/templates/rails/info/properties.html.erb (0.9ms)
+Completed 200 OK in 54ms (Views: 15.6ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/" for ::1 at 2014-12-23 20:01:12 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.1ms)
+Completed 200 OK in 37ms (Views: 11.8ms | ActiveRecord: 0.0ms)
